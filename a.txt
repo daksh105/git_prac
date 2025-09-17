@@ -1,1 +1,3 @@
 this is a written from git_prac2
+RESOLVED
+this is a written from git_prac
